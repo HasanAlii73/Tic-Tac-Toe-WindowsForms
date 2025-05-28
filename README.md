@@ -2,7 +2,7 @@
 
 A classic Tic-Tac-Toe game implementation with single-player (vs AI) and two-player modes, built with C# Windows Forms.
 
-![Game Screenshot](res/screenshot.png)
+![Game Screenshot](res/Screenshot.png)
 
 ## 🎮 Features
 
